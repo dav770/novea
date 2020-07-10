@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/novea/static/css/main.42591f24.chunk.css",
-    "main.js": "/novea/static/js/main.81cd7652.chunk.js",
-    "main.js.map": "/novea/static/js/main.81cd7652.chunk.js.map",
-    "runtime-main.js": "/novea/static/js/runtime-main.0de6f418.js",
-    "runtime-main.js.map": "/novea/static/js/runtime-main.0de6f418.js.map",
-    "static/css/2.fd83e43b.chunk.css": "/novea/static/css/2.fd83e43b.chunk.css",
-    "static/js/2.81191399.chunk.js": "/novea/static/js/2.81191399.chunk.js",
-    "static/js/2.81191399.chunk.js.map": "/novea/static/js/2.81191399.chunk.js.map",
-    "index.html": "/novea/index.html",
-    "precache-manifest.ec06c51dd26a2f3f6b8bc70f6b92fad4.js": "/novea/precache-manifest.ec06c51dd26a2f3f6b8bc70f6b92fad4.js",
-    "service-worker.js": "/novea/service-worker.js",
-    "static/css/2.fd83e43b.chunk.css.map": "/novea/static/css/2.fd83e43b.chunk.css.map",
-    "static/css/main.42591f24.chunk.css.map": "/novea/static/css/main.42591f24.chunk.css.map",
-    "static/js/2.81191399.chunk.js.LICENSE.txt": "/novea/static/js/2.81191399.chunk.js.LICENSE.txt"
+    "main.css": "/novea.github.io/static/css/main.42591f24.chunk.css",
+    "main.js": "/novea.github.io/static/js/main.2be93a63.chunk.js",
+    "main.js.map": "/novea.github.io/static/js/main.2be93a63.chunk.js.map",
+    "runtime-main.js": "/novea.github.io/static/js/runtime-main.c454b3ce.js",
+    "runtime-main.js.map": "/novea.github.io/static/js/runtime-main.c454b3ce.js.map",
+    "static/css/2.fd83e43b.chunk.css": "/novea.github.io/static/css/2.fd83e43b.chunk.css",
+    "static/js/2.15e2fc28.chunk.js": "/novea.github.io/static/js/2.15e2fc28.chunk.js",
+    "static/js/2.15e2fc28.chunk.js.map": "/novea.github.io/static/js/2.15e2fc28.chunk.js.map",
+    "index.html": "/novea.github.io/index.html",
+    "precache-manifest.2f18e1b728b731a6c0d7b18b28950a18.js": "/novea.github.io/precache-manifest.2f18e1b728b731a6c0d7b18b28950a18.js",
+    "service-worker.js": "/novea.github.io/service-worker.js",
+    "static/css/2.fd83e43b.chunk.css.map": "/novea.github.io/static/css/2.fd83e43b.chunk.css.map",
+    "static/css/main.42591f24.chunk.css.map": "/novea.github.io/static/css/main.42591f24.chunk.css.map",
+    "static/js/2.15e2fc28.chunk.js.LICENSE.txt": "/novea.github.io/static/js/2.15e2fc28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0de6f418.js",
+    "static/js/runtime-main.c454b3ce.js",
     "static/css/2.fd83e43b.chunk.css",
-    "static/js/2.81191399.chunk.js",
+    "static/js/2.15e2fc28.chunk.js",
     "static/css/main.42591f24.chunk.css",
-    "static/js/main.81cd7652.chunk.js"
+    "static/js/main.2be93a63.chunk.js"
   ]
 }

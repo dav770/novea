@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/novea/static/css/main.42591f24.chunk.css",
+    "main.js": "/novea/static/js/main.81cd7652.chunk.js",
+    "main.js.map": "/novea/static/js/main.81cd7652.chunk.js.map",
+    "runtime-main.js": "/novea/static/js/runtime-main.0de6f418.js",
+    "runtime-main.js.map": "/novea/static/js/runtime-main.0de6f418.js.map",
+    "static/css/2.fd83e43b.chunk.css": "/novea/static/css/2.fd83e43b.chunk.css",
+    "static/js/2.81191399.chunk.js": "/novea/static/js/2.81191399.chunk.js",
+    "static/js/2.81191399.chunk.js.map": "/novea/static/js/2.81191399.chunk.js.map",
+    "index.html": "/novea/index.html",
+    "precache-manifest.ec06c51dd26a2f3f6b8bc70f6b92fad4.js": "/novea/precache-manifest.ec06c51dd26a2f3f6b8bc70f6b92fad4.js",
+    "service-worker.js": "/novea/service-worker.js",
+    "static/css/2.fd83e43b.chunk.css.map": "/novea/static/css/2.fd83e43b.chunk.css.map",
+    "static/css/main.42591f24.chunk.css.map": "/novea/static/css/main.42591f24.chunk.css.map",
+    "static/js/2.81191399.chunk.js.LICENSE.txt": "/novea/static/js/2.81191399.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0de6f418.js",
+    "static/css/2.fd83e43b.chunk.css",
+    "static/js/2.81191399.chunk.js",
+    "static/css/main.42591f24.chunk.css",
+    "static/js/main.81cd7652.chunk.js"
+  ]
+}

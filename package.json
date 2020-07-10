@@ -2,7 +2,7 @@
   "name": "novea",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dav770/novea",
+  "homepage": "https://dav770/novea.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

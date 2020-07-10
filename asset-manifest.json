@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/novea.github.io/static/css/main.42591f24.chunk.css",
-    "main.js": "/novea.github.io/static/js/main.2be93a63.chunk.js",
-    "main.js.map": "/novea.github.io/static/js/main.2be93a63.chunk.js.map",
-    "runtime-main.js": "/novea.github.io/static/js/runtime-main.c454b3ce.js",
-    "runtime-main.js.map": "/novea.github.io/static/js/runtime-main.c454b3ce.js.map",
-    "static/css/2.fd83e43b.chunk.css": "/novea.github.io/static/css/2.fd83e43b.chunk.css",
-    "static/js/2.15e2fc28.chunk.js": "/novea.github.io/static/js/2.15e2fc28.chunk.js",
-    "static/js/2.15e2fc28.chunk.js.map": "/novea.github.io/static/js/2.15e2fc28.chunk.js.map",
-    "index.html": "/novea.github.io/index.html",
-    "precache-manifest.2f18e1b728b731a6c0d7b18b28950a18.js": "/novea.github.io/precache-manifest.2f18e1b728b731a6c0d7b18b28950a18.js",
-    "service-worker.js": "/novea.github.io/service-worker.js",
-    "static/css/2.fd83e43b.chunk.css.map": "/novea.github.io/static/css/2.fd83e43b.chunk.css.map",
-    "static/css/main.42591f24.chunk.css.map": "/novea.github.io/static/css/main.42591f24.chunk.css.map",
-    "static/js/2.15e2fc28.chunk.js.LICENSE.txt": "/novea.github.io/static/js/2.15e2fc28.chunk.js.LICENSE.txt"
+    "main.css": "/dav770/novea.github.io.git/static/css/main.42591f24.chunk.css",
+    "main.js": "/dav770/novea.github.io.git/static/js/main.76a8b3fd.chunk.js",
+    "main.js.map": "/dav770/novea.github.io.git/static/js/main.76a8b3fd.chunk.js.map",
+    "runtime-main.js": "/dav770/novea.github.io.git/static/js/runtime-main.4d91b0db.js",
+    "runtime-main.js.map": "/dav770/novea.github.io.git/static/js/runtime-main.4d91b0db.js.map",
+    "static/css/2.fd83e43b.chunk.css": "/dav770/novea.github.io.git/static/css/2.fd83e43b.chunk.css",
+    "static/js/2.0070d880.chunk.js": "/dav770/novea.github.io.git/static/js/2.0070d880.chunk.js",
+    "static/js/2.0070d880.chunk.js.map": "/dav770/novea.github.io.git/static/js/2.0070d880.chunk.js.map",
+    "index.html": "/dav770/novea.github.io.git/index.html",
+    "precache-manifest.5964ea4c143d88a15a08718f852328d3.js": "/dav770/novea.github.io.git/precache-manifest.5964ea4c143d88a15a08718f852328d3.js",
+    "service-worker.js": "/dav770/novea.github.io.git/service-worker.js",
+    "static/css/2.fd83e43b.chunk.css.map": "/dav770/novea.github.io.git/static/css/2.fd83e43b.chunk.css.map",
+    "static/css/main.42591f24.chunk.css.map": "/dav770/novea.github.io.git/static/css/main.42591f24.chunk.css.map",
+    "static/js/2.0070d880.chunk.js.LICENSE.txt": "/dav770/novea.github.io.git/static/js/2.0070d880.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c454b3ce.js",
+    "static/js/runtime-main.4d91b0db.js",
     "static/css/2.fd83e43b.chunk.css",
-    "static/js/2.15e2fc28.chunk.js",
+    "static/js/2.0070d880.chunk.js",
     "static/css/main.42591f24.chunk.css",
-    "static/js/main.2be93a63.chunk.js"
+    "static/js/main.76a8b3fd.chunk.js"
   ]
 }
